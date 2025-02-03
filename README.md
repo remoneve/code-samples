@@ -4,4 +4,4 @@ Each language-named folder contains some "demo"-excercises from different course
 
 (Some of the variables and documentation might be written in finnish as that was suggested/required by the course.)
 
-More Java-/TypeScript and React examples can be found in my Full Stack Open -repository: [FSOrepo](https://github.com/remoneve/FSOrepo)
+More JavaScript and React (also TypeScript in part9) examples can be found in my Full Stack Open -repository: [FSOrepo](https://github.com/remoneve/FSOrepo)
