@@ -1,3 +1,6 @@
+// This is a sample React app, which has a search functionaly
+// and gets some information of a country when the search is narrow enough.
+
 import { useEffect, useState } from 'react'
 import axios from 'axios'
 
